@@ -1,0 +1,3 @@
+[submodule "src/Miniblog.Core"]
+	path = src/Miniblog.Core
+	url = https://github.com/adaxer/Miniblog.Core.git
